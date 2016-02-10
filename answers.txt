@@ -1,0 +1,10 @@
+a. modular,b. procedural,c. functional,d. object-oriented,b
+a. object-centric,b. objective,c. procedural,d. object-oriented,d
+a. method,b. instance,c. data attribute,d. module,c
+a. blueprint,b. cookie cutter,c. variable,d. instance,a
+a. avoid using the self parameter to create the attribute,b. begin the attribute’s name with two underscores,c. begin the name of the attribute with private_ _,d. begin the name of the attribute with the @ symbol,b
+a. retriever,b. constructor,c. mutator,d. accessor,d
+a. modifier,b. constructor,c. mutator,d. accessor,c
+a. _ _init_ _,b. init,c. _ _str_ _,d. _ _object_ _,a
+a. you call it like any other method: object . _ _str_ _(),b. by passing an instance of the class to the built in str function,c. the method is automatically called when the object is created,d. by passing an instance of the class to the built-in state function,c
+a. the Unified Modeling Language,b. flowchartsReview Questions,c. pseudocode,d. the Object Hierarchy System,a
