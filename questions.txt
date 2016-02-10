@@ -1,0 +1,10 @@
+The ______________ programming practice is centered on creating functions that are separate from the data that they work on.
+The ______________ programming practice is centered on creating objects.
+A(n) ______________ is a component of a class that references data.
+An object is a(n) ______________.
+By doing this you can hide a class’s attribute from code outside the class.
+A(n) ______________ method gets the value of a data attribute but does not change it.
+A(n) ______________ method stores a value in a data attribute or changes its value in some other way.
+The ______________ method is automatically called when an object is created.
+If a class has a method named _ _str_ _ , which of these is a way to call the method?
+A set of standard diagrams for graphically depicting object-oriented systems is provided by ______________.
