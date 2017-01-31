@@ -1,4 +1,4 @@
-from trivia import Trivia # import Trivia class
+from triviaClass import Trivia # import Trivia class
 
 def main():
 
